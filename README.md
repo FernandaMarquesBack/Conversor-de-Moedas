@@ -1,6 +1,7 @@
 <div style="display: inline">
 
             <img width='50' height='50' src="![image](https://github.com/user-attachments/assets/d19e11e9-5b14-47dc-86fe-f89540664376)" />
+                        <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  💫<ins> *CONVERSOR DE MOEDAS – DESAFIO ORACLE ONE + ALURA* </ins>
 
