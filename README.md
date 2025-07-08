@@ -1,10 +1,9 @@
 <div style="display: inline">
 
-            <img width='50' height='50' src="![image](https://github.com/user-attachments/assets/d19e11e9-5b14-47dc-86fe-f89540664376)
-" />
-
-CONVERSOR DE MOEDAS – DESAFIO ORACLE ONE + ALURA
+            <img width='50' height='50' src="![image](https://github.com/user-attachments/assets/d19e11e9-5b14-47dc-86fe-f89540664376)" />
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 💫<ins> *CONVERSOR DE MOEDAS – DESAFIO ORACLE ONE + ALURA* </ins>
+
 
 📢 DESENVOLVIMENTO REALIZADO COM SUCESSO
 Este projeto foi elaborado como parte integrante do Challenge ONE (Oracle Next Education), em parceria com a plataforma educacional Alura. Essa iniciativa visa proporcionar aos participantes uma experiência prática de desenvolvimento, com desafios baseados em situações reais, promovendo o aprimoramento de habilidades técnicas e de raciocínio lógico.
