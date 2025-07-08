@@ -49,7 +49,8 @@ Localize e execute o método main presente na classe Main.java.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  SOBRE A AUTORA DO PROJETO
 
-            <img width='50' height='50' src="![1741805268636](https://github.com/user-attachments/assets/5dc86400-0a2b-43f1-8d10-6f3f01d243ae)
+            <img width='50' height='50' src="![image](https://github.com/user-attachments/assets/e75b8c60-4e70-4c85-a2fc-ff096760b9dd)
+
 " />
 👩‍💻 Cavalcante Marques
 
