@@ -1,6 +1,6 @@
 <div style="display: inline">
             <img width='80' height='80' src="https://github.com/user-attachments/assets/39c0c823-7278-4c86-8f33-c45aecec10fa" />
-    
+            
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
  <h3></h3> <b> CONVERSOR DE MOEDAS  </b>– DESAFIO ORACLE ONE + ALURA  </h3>   
@@ -38,41 +38,49 @@ O desafio proposto consistia em desenvolver um conversor de moedas que realizass
 
 <b>🚀 COMO EXECUTAR O PROJETO</b>
 
-<h4>Clone o repositório utilizando o comando:
-<p><i>git clone https:</h4>//github.com/FernandaMarquesBack/Conversor-de-Moedas.git</i> 
-</p>
-            
-<h5>Abra o projeto em uma IDE compatível com Java, preferencialmente o IntelliJ IDEA;<br>
+<h5>Clone o repositório utilizando o comando: git clone https: <a>//github.com/FernandaMarquesBack/Conversor-de-Moedas.git</a> 
+      </h5>
+
+<h5> 
+Abra o projeto em uma IDE compatível com Java, preferencialmente o IntelliJ IDEA;<br>
 Verifique se a versão instalada do Java é a 17 ou superior;<br>
 Localize e execute o método main presente na classe Main.java.</h5>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- SOBRE A AUTORA DO PROJETO
 
-            <img width='50' height='50' src="![image](https://github.com/user-attachments/assets/e75b8c60-4e70-4c85-a2fc-ff096760b9dd)
+<img width='50' height='50' src="https://github.com/user-attachments/assets/0587a78a-ca85-4430-9744-fd239d79ecfe">
+ 
+<b> SOBRE A AUTORA DO PROJETO </b> <br> 
 
-" />
-👩‍💻 Cavalcante Marques
-
-Estudante do programa Oracle ONE em parceria com a Alura;
-
-Em constante desenvolvimento na área de programação e soluções Java;
-
-GitHub: @FernandaMarquesBack
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📝 DIFERENCIAIS TÉCNICOS DO CÓDIGO-FONTE
-
-✨ Estrutura de menu clara e objetiva, com tratamento de exceções e entrada inválida por parte do usuário;
-✨ Arquitetura do sistema pensada para facilitar a expansão futura, permitindo a adição de novas moedas com mínima alteração no código existente.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 Considerações Finais
-
-Este projeto representa um marco significativo na minha trajetória como desenvolvedora em formação. Cada linha de código escrita reflete um aprendizado, e cada obstáculo enfrentado durante o processo contribuiu para a consolidação dos conhecimentos adquiridos em Java e boas práticas de desenvolvimento. Trata-se de uma base sólida para evoluções futuras na área de aplicações interativas e integrações com APIs externas. 💪
+<img width='360' height='450' src="https://github.com/user-attachments/assets/dbba457a-e453-4897-8e9d-d4205d147564" />
+<h5>
+<br>👩‍💻 Fernanda Cavalcante Marques
+<br>🎓 Estudante do programa Oracle ONE em parceria com a Alura;
+<br>📈 Em constante desenvolvimento na área de programação e soluções Java;
+<br>🌐🔗GitHub: @FernandaMarquesBack</h5>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<b>📝 DIFERENCIAIS TÉCNICOS DO CÓDIGO-FONTE</b>
+
+<h5>
+✨ Adoção da biblioteca moderna HttpClient, em substituição a abordagens antigas como HttpURLConnection;<br> 
+✨ Estrutura de menu clara e objetiva, com tratamento de exceções e entrada inválida por parte do usuário;<br>
+✨ Arquitetura do sistema pensada para facilitar a expansão futura, permitindo a adição de novas moedas com <br> 
+mínima alteração no código existente.
+</h5>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<b>📌 Considerações Finais</b>
+
+<h5>
+Este projeto representa um marco significativo na minha trajetória como desenvolvedora em formação. Cada linha de código escrita reflete um aprendizado, e cada obstáculo enfrentado durante o processo contribuiu para a consolidação dos conhecimentos adquiridos em Java e boas práticas de desenvolvimento. Trata-se de uma base sólida para evoluções futuras na área de aplicações interativas e integrações com APIs externas. </h5>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div style="text-align: center;">
+ <img width='140' height='140' src="https://github.com/user-attachments/assets/9d3af19c-80ac-4e87-8377-918a434073c7" alt="Parceria: Alura e Oracle" style="display: block; >margin: 0 auto;">  
+</div>
 
 
 
