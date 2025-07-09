@@ -1,5 +1,5 @@
 <div style="display: inline">
-            <img width='80' height='80' src="https://github.com/user-attachments/assets/39c0c823-7278-4c86-8f33-c45aecec10fa" />
+            <img width='180' height='180' src="https://github.com/user-attachments/assets/cf8c805d-b1b5-4af6-8342-337894e970cb" />
             
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -74,13 +74,11 @@ mínima alteração no código existente.
 <b>📌 Considerações Finais</b>
 
 <h5>
-Este projeto representa um marco significativo na minha trajetória como desenvolvedora em formação. Cada linha de código escrita reflete um aprendizado, e cada obstáculo enfrentado durante o processo contribuiu para a consolidação dos conhecimentos adquiridos em Java e boas práticas de desenvolvimento. Trata-se de uma base sólida para evoluções futuras na área de aplicações interativas e integrações com APIs externas. </h5>
+Este projeto representa um marco significativo na minha trajetória como desenvolvedora em formação. Cada linha de código escrita reflete um aprendizado, e cada obstáculo enfrentado durante o processo contribuiu para a consolidação dos conhecimentos adquiridos em Java e boas práticas de desenvolvimento. <br> Trata-se de uma base sólida para evoluções futuras na área de aplicações interativas e integrações com APIs externas. </h5>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div style="text-align: center;">
- <img width='140' height='140' src="https://github.com/user-attachments/assets/9d3af19c-80ac-4e87-8377-918a434073c7" alt="Parceria: Alura e Oracle" style="display: block; >margin: 0 auto;">  
-</div>
+ <img width='180' height='180' src="https://github.com/user-attachments/assets/9d3af19c-80ac-4e87-8377-918a434073c7">
 
 
 
