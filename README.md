@@ -1,51 +1,51 @@
 <div style="display: inline">
-
-            <img width='50' height='50' src="![image](https://github.com/user-attachments/assets/d19e11e9-5b14-47dc-86fe-f89540664376)" />
-                        <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 💫<ins> *CONVERSOR DE MOEDAS – DESAFIO ORACLE ONE + ALURA* </ins>
-
-
-📢 DESENVOLVIMENTO REALIZADO COM SUCESSO
-Este projeto foi elaborado como parte integrante do Challenge ONE (Oracle Next Education), em parceria com a plataforma educacional Alura. Essa iniciativa visa proporcionar aos participantes uma experiência prática de desenvolvimento, com desafios baseados em situações reais, promovendo o aprimoramento de habilidades técnicas e de raciocínio lógico.
-
-O desafio proposto consistia em desenvolver um conversor de moedas que realizasse consultas a uma API de câmbio em tempo real, entregando como resultado uma aplicação funcional, educativa e aplicável a contextos do cotidiano. O sistema resultante permite conversões precisas entre diferentes moedas, incluindo Dólar Americano, Real Brasileiro, diversas variações do Peso e o Boliviano, oferecendo uma apresentação clara e organizada dos resultados.
-
+            <img width='80' height='80' src="https://github.com/user-attachments/assets/39c0c823-7278-4c86-8f33-c45aecec10fa" />
+    
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🛠 FUNCIONALIDADES IMPLEMENTADAS
+ <h3></h3> <b> CONVERSOR DE MOEDAS  </b>– DESAFIO ORACLE ONE + ALURA  </h3>   
 
-✅ Conversão de valores entre moedas de países latino-americanos e dos Estados Unidos;
-✅ Integração com a API ExchangeRate, permitindo a obtenção de taxas de câmbio em tempo real;
-✅ Interface textual de fácil usabilidade, estruturada por meio de menus interativos;
-✅ Sistema inteligente de exibição textual, com identificação e ajuste automático para singular ou plural das moedas envolvidas na conversão;
-✅ Mecanismo de finalização amigável e segura da execução, com mensagens claras para o usuário.
+ <h5>📢 DESENVOLVIMENTO REALIZADO COM SUCESSO </h5>  
+                   <h5>     <p>
+Este projeto foi elaborado como parte integrante do Challenge ONE (Oracle Next Education), em parceria com a plataforma educacional Alura. Essa iniciativa visa proporcionar aos participantes uma experiência prática de desenvolvimento, com desafios baseados em situações reais, promovendo o aprimoramento de habilidades técnicas e de raciocínio lógico.</p>
+
+O desafio proposto consistia em desenvolver um conversor de moedas que realizasse consultas a uma API de câmbio em tempo real, entregando como resultado uma aplicação funcional, educativa e aplicável a contextos do cotidiano. O sistema resultante permite conversões precisas entre diferentes moedas, incluindo Dólar Americano, Real Brasileiro, diversas variações do Peso e o Boliviano, oferecendo uma apresentação clara e organizada dos resultados.</h5>
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💻 TECNOLOGIAS E FERRAMENTAS UTILIZADAS
+<b>🛠 FUNCIONALIDADES IMPLEMENTADAS</b>
 
-Java (versão 17 ou superior);
-
-Gson (para manipulação e conversão de dados JSON);
-
-HttpClient, HttpRequest e HttpResponse (para comunicação com a API externa);
-
-API ExchangeRate (para consultas de câmbio em tempo real);
-
-Scanner (entrada de dados via terminal).
+<h5>
+✅ Conversão de valores entre moedas de países latino-americanos e dos Estados Unidos;<br>
+✅ Integração com a API ExchangeRate, permitindo a obtenção de taxas de câmbio em tempo real;<br>
+✅ Interface textual de fácil usabilidade, estruturada por meio de menus interativos;<br>
+✅ Sistema inteligente de exibição textual, com identificação e ajuste automático para singular ou plural das moedas envolvidas na conversão;<br>
+✅ Mecanismo de finalização amigável e segura da execução, com mensagens claras para o usuário.</h5>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚀 COMO EXECUTAR O PROJETO
 
-Clone o repositório utilizando o comando:
-git clone https://github.com/FernandaMarquesBack/Conversor-de-Moedas.git  
+<b>💻 TECNOLOGIAS E FERRAMENTAS UTILIZADAS</b>
 
-Abra o projeto em uma IDE compatível com Java, preferencialmente o IntelliJ IDEA;
+<h5>
+<p> ☕️ Java (versão 17 ou superior);
+<p> 🔄  Gson (para manipulação e conversão de dados JSON);
+<p> 🌐 HttpClient, HttpRequest e HttpResponse (para comunicação com a API externa);
+<p> 💱 API ExchangeRate (para consultas de câmbio em tempo real);
+<p> ⌨️ Scanner (entrada de dados via terminal).
+</h5>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Verifique se a versão instalada do Java é a 17 ou superior;
+<b>🚀 COMO EXECUTAR O PROJETO</b>
 
-Localize e execute o método main presente na classe Main.java.
+<h4>Clone o repositório utilizando o comando:
+<p><i>git clone https:</h4>//github.com/FernandaMarquesBack/Conversor-de-Moedas.git</i> 
+</p>
+            
+<h5>Abra o projeto em uma IDE compatível com Java, preferencialmente o IntelliJ IDEA;<br>
+Verifique se a versão instalada do Java é a 17 ou superior;<br>
+Localize e execute o método main presente na classe Main.java.</h5>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  SOBRE A AUTORA DO PROJETO
 
